@@ -1,4 +1,4 @@
-```php
+
 <?php
 session_start();
 
@@ -37,4 +37,3 @@ if (isset($_GET['id'])) {
     echo "ID do tópico não informado";
 }
 ?>
-```
